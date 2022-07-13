@@ -37,7 +37,7 @@ export default function Index({ data }) {
         margin: "auto",
       }}
     >
-      <h2>Nextjs JSON Editor IS Good</h2>
+      <h2>Nextjs JSON Editor IS</h2>
       <ul
         style={{
           listStyleType: "none",
