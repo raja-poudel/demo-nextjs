@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev and this is testing for merge conflict
+npm run dev && npm run start
 # or
 yarn dev
 ```
